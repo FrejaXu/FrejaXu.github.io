@@ -18,13 +18,11 @@ My life slogan is "To see the world" and "stay curious". I love traveling and su
 
 Biography
 ======
-Ph.D (Psychology) 2018-2021 University of Jyväskylä, Finland
-
-M.Ed (Basic Psychology) 2015-2018 Liaoning Normal University, China
-
-B.S (Applied Psychology) 2011-2015 Dalian Medical University, China
+- Ph.D (Psychology) 2018-2021 University of Jyväskylä, Finland
+- M.Ed (Basic Psychology) 2015-2018 Liaoning Normal University, China
+- B.S (Applied Psychology) 2011-2015 Dalian Medical University, China
 
 News
 ======
-Sep 1, 2021   Join Prof. Guoying Zhao's group at CMVS
-Aug 17, 2021  Defended my doctoral dissertation 
+- Sep 1, 2021   Join Prof. Guoying Zhao's group at CMVS
+- Aug 17, 2021  Defended my doctoral dissertation 
