@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Qianru Xu"
   avatar           : "profile.png"
-  bio              : "Postdoctoral researcher @University of Oulu. Ph.D. in psychology:brain:"
+  bio              : "Postdoctoral researcher @University of Oulu."         
+                     "Ph.D. in psychology" :brain:
+  
   location         : "Finland / China"
   employer         :
   #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
