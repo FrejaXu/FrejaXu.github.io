@@ -7,20 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am Qianru Xu (许茜如), a postdoctoral researcher at the Center for Machine Vision and Signal Analysis (CMVS), University of Oulu, Finland. I am currently working on an Academy of Finland project led by Prof.[Guoying Zhao](https://www.oulu.fi/university/researcher/guoying-zhao) with a group of researchers in computer science. We are doing interdisciplinary works by integrating neurosciences and computer vision to study spontaneous expressions. My research interests include the neural basis of emotional and somatosensory processing, pain perception, and human-computer interaction.
 
-I am Qianru Xu (许茜如), a postdoctoral researcher at Center for Machine Vision and Signal Analysis (CMVS), University of Oulu, Finland. I am currently working on an Academy of Finland project led by Prof. [Guoying Zhao](https://www.oulu.fi/university/researcher/guoying-zhao) with a group of researchers with computer background. We are working on emotion AI and trying to bring emotional intelligence to various human-computer-interaction.
+Previously, my research is mainly focusing on brain responses (MEG/EEG) to somatosensory and emotional stimuli both in depressed and non-depressed participants. My Ph.D. dissertation is entitled ["Change detection in the surrounding world: evidence from the visual and somatosensory brain responses"]( http://urn.fi/URN:ISBN:978-951-39-8791-6) supervisered by Dr. [Piia Astikainen](https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/staff/astikainen-piia) and Prof. [Jarmo Hämäläinen](https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/staff/hamalainen-jarmo). One of my current projects is trying to tackle how physical pain (compared to emotional pain such as depression) alters emotional processing. This information can be useful in the future for developing diagnostic tools and in predicting treatment responses.
 
-Previously, my research is mainly focusing on brain responses (MEG/EEG) to somatosensory and emotional stimuli both in depressed and non-depressed participants. My Ph.D dissertation is entitled ["Change detection in the surrounding world: evidence from the visual and somatosensory brain responses"]( http://urn.fi/URN:ISBN:978-951-39-8791-6) and supervisered by Dr. [Piia Astikainen](https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/staff/astikainen-piia) and Prof. [Jarmo Hämäläinen](https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/staff/hamalainen-jarmo). One of my current project is trying to tackle how physical pain (compared to emotional pain such as depression) alters emotional processing. This information can be useful in the future for developing diagnostic tools and in predicting treatment responses.
-
-I regard myself as a self-motivated and enthusiastic researcher, and I am always eager to learn new things and accept new challenges. Since 2018, I have submitted in a total of eleven peer-review journal manuscripts (nine have been published, and two are under review). 
-
-My life slogan is "To see the world" and "stay curious". I love traveling and sucba diving. Until now, I have been to 42 countries and spent 2835 minutes under water (to be continued...)
-
-Biography
-======
-- 2018-2021 Ph.D (Psychology), University of Jyväskylä, Finland
-- 2015-2018 M.Ed (Basic Psychology), Liaoning Normal University, China
-- 2011-2015 B.S (Applied Psychology), Dalian Medical University, China
+I regard myself as a self-motivated and enthusiastic researcher, and I am always eager to learn new things and accept new challenges. My life slogan is "To see the world" and "stay curious". I love traveling and scuba diving. Until now, I have been to 42 countries and spent 2835 minutes underwater (to be continued...).
 
 News
 ======
