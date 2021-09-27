@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Qianru Xu (许茜如）, a postdoctoral researcher at Center for Machine Vision and Signal Analysis (CMVS), University of Oulu, Finland. I am currently working on an Academy of Finland project led by Prof. [Guoying Zhao](https://www.oulu.fi/university/researcher/guoying-zhao) with a group of researchers with computer background. We are working on emotion AI and trying to bring emotional intelligence to various human-computer-interaction.
+I am Qianru Xu (许茜如), a postdoctoral researcher at Center for Machine Vision and Signal Analysis (CMVS), University of Oulu, Finland. I am currently working on an Academy of Finland project led by Prof. [Guoying Zhao](https://www.oulu.fi/university/researcher/guoying-zhao) with a group of researchers with computer background. We are working on emotion AI and trying to bring emotional intelligence to various human-computer-interaction.
 
 Previously, my research is mainly focusing on brain responses (MEG/EEG) to somatosensory and emotional stimuli both in depressed and non-depressed participants. My Ph.D dissertation is entitled ["Change detection in the surrounding world: evidence from the visual and somatosensory brain responses"]( http://urn.fi/URN:ISBN:978-951-39-8791-6) and supervisered by Dr. [Piia Astikainen](https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/staff/astikainen-piia) and Prof. [Jarmo Hämäläinen](https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/staff/hamalainen-jarmo). One of my current project is trying to tackle how physical pain (compared to emotional pain such as depression) alters emotional processing. This information can be useful in the future for developing diagnostic tools and in predicting treatment responses.
 
@@ -18,11 +18,12 @@ My life slogan is "To see the world" and "stay curious". I love traveling and su
 
 Biography
 ======
-- Ph.D (Psychology) 2018-2021 University of Jyväskylä, Finland
-- M.Ed (Basic Psychology) 2015-2018 Liaoning Normal University, China
-- B.S (Applied Psychology) 2011-2015 Dalian Medical University, China
+- 2018-2021 Ph.D (Psychology), University of Jyväskylä, Finland
+- 2015-2018 M.Ed (Basic Psychology), Liaoning Normal University, China
+- 2011-2015 B.S (Applied Psychology), Dalian Medical University, China
 
 News
 ======
-- Sep 1, 2021   Join Prof. Guoying Zhao's group at CMVS
+- Sep 1, 2021   Join Prof. Guoying Zhao's group at [CMVS](https://www.oulu.fi/cmvs/)
 - Aug 17, 2021  Defended my doctoral dissertation 
+- Aug 1, 2018   Join [Active mind lab](https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/research/research-areas/neuroscience/groups/active-mind-lab) led by Dr. Piia Astikainen
