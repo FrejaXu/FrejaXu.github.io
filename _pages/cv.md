@@ -26,7 +26,7 @@ Work experience
 * 2015, Psychiatric Interns, Dalian Seventh People's Hospital & Dalian Mental Health Center
 * 2015, Psychologist Assistant, Dalian Airforce Sanatorium
   
-Research Skills
+Research skills
 ======
 - E-prime\ Visual Basic      - SPSS                                
 - Brain Vision Analyzer      - EEG lab\ Matlab                - Brainstorm\ Matlab          
@@ -37,7 +37,7 @@ Language skills
 ======
 Chinese (native), English (fluent), Finnish (basic)
 
-Research supervision and leadership experience
+Research supervision & Leadership experience
 ======
 2019-2021, Co-supervisor, M.Sc. thesis, Department of Psychology, University of Jyväskylä, Finland 
 2018-2019, Co-supervisor, B.A. thesis, Department of Psychology, University of Jyväskylä, Finland 
