@@ -10,6 +10,6 @@ venue: 'Neural Plasticity'
 ---
 In this paper, we compare previous controversial results from behavioral and neuroscience studies using Change Detection and Visual Search paradigms. We suggest three possible contributing factors that have significant impacts on the contradictory conclusions regarding different emotional bias effects; these factors are stimulus choice, experimental setting, and cognitive process. We also propose new research directions and guidelines for future studies.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://www.hindawi.com/journals/np/2021/8851066/)
 
 Recommended citation: Xu, Q., Ye, C., Gu, S., Lei, Y., Li, X., Huang, L., & Liu, Q. (2021). Negative and Positive Bias for Emotional Faces: Evidence from the Attention and Working Memory Paradigms. <i>Neural Plasticity</i>, 2021, 8851066.
