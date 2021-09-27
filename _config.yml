@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Qianru Xu"
-  avatar           : Q_Xu (2).jpg
+  avatar           : "Q_Xu (2).jpg"
   bio              : "Postdoctoral researcher @University of Oulu."         
-                     "PhD in psychology" :brain
+                     "PhD in psychology" & :brain:
   
   location         : "Finland / China"
   employer         :
