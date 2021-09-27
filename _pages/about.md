@@ -16,5 +16,5 @@ I regard myself as a self-motivated and enthusiastic researcher, and I am always
 News
 ======
 - Sep 1, 2021   Join Prof. Guoying Zhao's group at [CMVS](https://www.oulu.fi/cmvs/)
-- Aug 17, 2021  Defended my doctoral dissertation! - git commit -m ":mortar_board:"
+- Aug 17, 2021  Defended my doctoral dissertation! 🎓
 - Aug 1, 2018   Join [Active mind lab](https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/research/research-areas/neuroscience/groups/active-mind-lab) led by Dr. Piia Astikainen
