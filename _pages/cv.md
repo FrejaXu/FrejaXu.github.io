@@ -39,11 +39,11 @@ Chinese (native), English (fluent), Finnish (basic)
 
 Research supervision & Leadership experience
 ======
-2019-2021, Co-supervisor, M.Sc. thesis, Department of Psychology, University of Jyväskylä, Finland 
-2018-2019, Co-supervisor, B.A. thesis, Department of Psychology, University of Jyväskylä, Finland 
-2013-2015, Vice President of Student Union Association, Dalian Medical University
-2012-2013, Minister of Practice and External Connection Ministry, Dalian Medical University
-2012-2016, Volunteer Group Leader, Dalian Aina Autism Care Institution
+- 2019-2021, Co-supervisor, M.Sc. thesis, Department of Psychology, University of Jyväskylä, Finland 
+- 2018-2019, Co-supervisor, B.A. thesis, Department of Psychology, University of Jyväskylä, Finland 
+- 2013-2015, Vice President of Student Union Association, Dalian Medical University
+- 2012-2013, Minister of Practice and External Connection Ministry, Dalian Medical University
+- 2012-2016, Volunteer Group Leader, Dalian Aina Autism Care Institution
 
 Conferences & Communications
 ======
