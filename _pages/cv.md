@@ -13,7 +13,7 @@ Education
 ======
 * 2018-2021, Doctor of Philosophy (Psychology), University of Jyväskylä, Finland. 
 * 2015-2018, Master of Education (Basic Psychology), Liaoning Normal University, China.
-* 2011-2015, Bachelor of Science (Applied Psychology), Dalian Medical University (DMU), China. 
+* 2011-2015, Bachelor of Science (Applied Psychology), Dalian Medical University, China. 
 
 Work experience
 ======
