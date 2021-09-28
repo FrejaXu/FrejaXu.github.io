@@ -1,5 +1,5 @@
 ---
-title: "Automatic processing of changes in facial emotions in dysphoria: A magnetoencephalography study"
+title: "The impact of visual working memory capacity on the filtering efficiency of emotional face distractors"
 collection: publications
 #permalink: 'https://www.hindawi.com/journals/np/2021/8851066/'
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
