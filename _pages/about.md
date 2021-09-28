@@ -13,6 +13,8 @@ Previously, my research is mainly focusing on brain responses (MEG/EEG) to somat
 
 I regard myself as a self-motivated and enthusiastic researcher, and I am always eager to learn new things and accept new challenges. My life slogan is "To see the world" and "Stay curious". I love traveling and scuba diving. Until now, I have been to 42 countries and spent 2,835 minutes underwater (to be continued...).
 
+📧Contact me: qianru.xu@oulu.fi OR psy.qianru.xu@outlook.com
+
 News
 ======
 - Sep 1, 2021   Join Prof. Guoying Zhao's group at [CMVS](https://www.oulu.fi/cmvs/)
