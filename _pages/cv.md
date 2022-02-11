@@ -41,9 +41,6 @@ Research supervision & Leadership experience
 ======
 - 2019-2021, Co-supervisor, M.Sc. thesis, Department of Psychology, University of Jyväskylä, Finland 
 - 2018-2019, Co-supervisor, B.A. thesis, Department of Psychology, University of Jyväskylä, Finland 
-- 2013-2015, Vice President of Student Union Association, Dalian Medical University
-- 2012-2013, Minister of Practice and External Connection Ministry, Dalian Medical University
-- 2012-2016, Volunteer Group Leader, Dalian Aina Autism Care Institution
 
 Conferences & Communications
 ======
@@ -59,12 +56,13 @@ Publications
 3.	Xu, Q., Ye, C., Gu, S., Hu, Z., Yi, L., Li, X., Huang, L., & Liu, Q. (2021). [Negative and positive bias for emotional faces: Evidence from the attention and working memory paradigms.](https://www.hindawi.com/journals/np/2021/8851066/) Neural Plasticity, 2021, 8851066. 
 4.	Xu, Q., He, W., Ye, C., & Luo, W. (2019). [Attentional bias of emotional faces: anger and happy superiority effect. Acta Physiologica Sinica](https://www.researchgate.net/publication/331482831_Attentional_bias_processing_mechanism_of_emotional_faces_anger_and_happiness_superiority_effects), 71 (1), 86-94. 
 5.	Xu, Q., Ruohonen, E. M., Ye, C., Li, X., Kreegipuu, K., Stefanics, G., Luo, W., & Astikainen, P. (2018). [Automatic processing of changes in facial emotions in dysphoria: A magnetoencephalography study](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00186/full). Frontiers in Human Neuroscience. 12:186. 
-6.	Ye, C., Xu, Q., Liu, X., Astikainen, P., Zhu, Y., Hu, Z., & Liu, Q. (2021). [Individual differences in working memory capacity are unrelated to the magnitudes of retrocue benefits](https://www.nature.com/articles/s41598-021-86515-5). Scientific Reports, 11: 7258.
-7.	Ye, C., Liang, T., Zhang, Y., Xu, Q., Zhu, Y., & Liu, Q. (2020). [The two-stage process in visual working memory consolidation](https://www.nature.com/articles/s41598-020-70418-y). Scientific Reports, 10:13564.
-8.	Ye, C., Hu, Z., Liang, T., Zhang, J., Xu, Q., & Liu, Q. (2020). [The mechanism of retro-cue effect in visual working memory: Cognitive phase separation](http://journal.psych.ac.cn/xlxb/EN/10.3724/SP.J.1041.2020.00399). Acta Psychologica Sinica, 52(4), 399-413.
-9.	Ye, C., Sun, H., Xu, Q., Liang, T., Zhang, Y., & Liu, Q. (2019). [Working memory capacity affects trade-off between quality and quantity only when stimulus exposure duration is sufficient: Evidence for the two-phase model](https://www.nature.com/articles/s41598-019-44998-3). Scientific Reports, 9:8727.
-10.	Tian, J., Wang, J., Xia, T., Zhao, W., Xu, Q., & He, W. (2018). [The influence of spatial frequency content on facial expression processing: An ERP study using rapid serial visual presentation](https://www.nature.com/articles/s41598-018-20467-1). Scientific reports, 8(1), 1-8.
-11.	Ye, C., Xu, Q., Liu, Q., Cong, F., Saariluoma, P., Ristaniemi, T., & Astikainen, P. (2018). [The impact of visual working memory capacity on the filtering efficiency of emotional face distractors](https://doi.org/10.1016/j.biopsycho.2018.08.009). Biological Psychology. 138, 63-72. 
+6.	Li, X., Sun, J., Wang, H., Xu, Q., Zhang, G., & Wang, X. (2022). [Dynamic impact of intelligence on verbal-humor processing: Evidence from ERPs and EROs.](https://doi.org/10.1016/j.jneuroling.2022.101057) Journal of Neurolinguistics, 62, 101057.
+7.	Ye, C., Xu, Q., Liu, X., Astikainen, P., Zhu, Y., Hu, Z., & Liu, Q. (2021). [Individual differences in working memory capacity are unrelated to the magnitudes of retrocue benefits](https://www.nature.com/articles/s41598-021-86515-5). Scientific Reports, 11: 7258.
+8.	Ye, C., Liang, T., Zhang, Y., Xu, Q., Zhu, Y., & Liu, Q. (2020). [The two-stage process in visual working memory consolidation](https://www.nature.com/articles/s41598-020-70418-y). Scientific Reports, 10:13564.
+9.	Ye, C., Hu, Z., Liang, T., Zhang, J., Xu, Q., & Liu, Q. (2020). [The mechanism of retro-cue effect in visual working memory: Cognitive phase separation](http://journal.psych.ac.cn/xlxb/EN/10.3724/SP.J.1041.2020.00399). Acta Psychologica Sinica, 52(4), 399-413.
+10.	Ye, C., Sun, H., Xu, Q., Liang, T., Zhang, Y., & Liu, Q. (2019). [Working memory capacity affects trade-off between quality and quantity only when stimulus exposure duration is sufficient: Evidence for the two-phase model](https://www.nature.com/articles/s41598-019-44998-3). Scientific Reports, 9:8727.
+11.	Tian, J., Wang, J., Xia, T., Zhao, W., Xu, Q., & He, W. (2018). [The influence of spatial frequency content on facial expression processing: An ERP study using rapid serial visual presentation](https://www.nature.com/articles/s41598-018-20467-1). Scientific reports, 8(1), 1-8.
+12.	Ye, C., Xu, Q., Liu, Q., Cong, F., Saariluoma, P., Ristaniemi, T., & Astikainen, P. (2018). [The impact of visual working memory capacity on the filtering efficiency of emotional face distractors](https://doi.org/10.1016/j.biopsycho.2018.08.009). Biological Psychology. 138, 63-72. 
 
   
 
