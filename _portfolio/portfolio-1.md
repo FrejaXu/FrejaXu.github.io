@@ -1,6 +1,6 @@
 ---
 title: "Travel log"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "To see the world <br/><img src='images/微信图片_20180112221605.jpg'>"
 collection: portfolio
 ---
 
