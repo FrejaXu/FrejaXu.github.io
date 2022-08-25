@@ -17,11 +17,11 @@ I regard myself as a self-motivated and enthusiastic researcher, and I am always
 
 News
 ======
-- August 15, 2022 Being invited as the Review Editor on the Editorial Board of Emotion Science @Frontiers in Psychology
+- August 15, 2022 Thrilled to share that I have been invited to join the Editorial Board of Emotion Science as an review editor @Frontiers in Psychology
 - July 27, 2022 📢Serving as co-editor for the research topic [“Cognitive mechanisms of visual attention, working memory, emotion, and their interactions”](https://frontiersin.org/research-topics/44236) in Frontier in neuroscience & Frontiers in psychology. All papers related to this topic are warmly welcome! 👀Abstract Submission Deadline 19 September 2022
 - July 2, 2022 🚨New preprint: [Pain modulates early sensory brain responses to task-irrelevant emotional faces](https://psyarxiv.com/2wdjx/)
 - Jun 1, 2022 Poster presentation on “Vision Sciences Society Annual meeting 2022”, Vision Science Society, Florida, United States (virtual) 
 - Dec 10, 2021  Our brand new project website is live! [Towards vision-based emotion AI (EmotionAI)](https://emotion-ai.rahtiapp.fi/index.html)
-- Sep 1, 2021   Join Prof. Guoying Zhao's group at [CMVS](https://www.oulu.fi/cmvs/)
+- Sep 1, 2021   Join Prof. Guoying Zhao's group at [CMVS](https://www.oulu.fi/cmvs/) 😀
 - Aug 17, 2021  Defended my doctoral dissertation! 🎓
 - Aug 1, 2018   Join [Active Mind Lab](https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/research/research-areas/neuroscience/groups/active-mind-lab) led by Dr. Piia Astikainen
