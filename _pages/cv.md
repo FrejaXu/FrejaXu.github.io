@@ -60,8 +60,8 @@ Conferences & Communications
 
 Research skills
 ======
-- E-prime\ Visual Basic      - SPSS                                
-- Brain Vision Analyzer      - EEG lab\ Matlab      - Brainstorm\ Matlab          
+- E-prime\Visual Basic       - Psychopy\Python                            
+- Brain Vision Analyzer      - EEG lab\Matlab      - Brainstorm\Matlab          
 - Driving license of MEG measurement                          
 - Experienced in Behavioral, EEG, and MEG measurement
 
