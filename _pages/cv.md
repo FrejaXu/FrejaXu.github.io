@@ -40,9 +40,9 @@ Teaching
 ======
 - 2022-2023, Lecturer, 521285S, Affective Computing (5 ECTS), University of Oulu, Finland
 - 2021-present, Follow-up group member of doctoral student, University of Oulu, Finland
-- 2019-2021, co-Instructor, PSYS2101, Master's thesis related project work (Pro gradu -tutkielman projektityöt), Department of Psychology, University of Jyväskylä, Finland 
-- 2019-2021, co-Instructor, PSYS2102, Master's thesis ending seminar (Pro gradu -tutkielman loppuseminaari), Department of Psychology, University of Jyväskylä, Finland 
-- 2018-2019, co-Instructor, PSYA210, Bachelor's Thesis (Kurssin tietojen hallinta), Department of Psychology, University of Jyväskylä, Finland 
+- 2019-2021, co-Supervisor, PSYS2101, Master's thesis related project work (Pro gradu -tutkielman projektityöt), Department of Psychology, University of Jyväskylä, Finland 
+- 2019-2021, co-Supervisor, PSYS2102, Master's thesis ending seminar (Pro gradu -tutkielman loppuseminaari), Department of Psychology, University of Jyväskylä, Finland 
+- 2018-2019, co-Supervisor, PSYA210, Bachelor's Thesis (Kurssin tietojen hallinta), Department of Psychology, University of Jyväskylä, Finland 
 
 Academic service
 ======
