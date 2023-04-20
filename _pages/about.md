@@ -16,9 +16,9 @@ I regard myself as a self-motivated and enthusiastic researcher, and I am always
 📧Contact me: qianru.xu@oulu.fi OR psy.qianru.xu@outlook.com
 
 News
-======
+======- Mar 2023 Our newest paper [“Pain modulates early sensory brain responses to task‐irrelevant emotional faces”]（https://doi.org/10.1002/ejp.2097）is   now published online in the journal of European Journal of Pain! Please see here for a short video introduction [link](https://www.veed.io/view/2c5741b6-1062-476e-8d20-6499906a8944?panel=share)
 - Sep 2022 Serving as the instructor for graduate students in Affective computing 2022 (5 ECTS) at University of Oulu
-- August 15, 2022 Joining the Editorial Board of Emotion Science @Frontiers in Psychology
+- Aug 15, 2022 Joining the Editorial Board of Emotion Science @Frontiers in Psychology
 - July 27, 2022 📢Serving as co-editor for the research topic [“Cognitive mechanisms of visual attention, working memory, emotion, and their interactions”](https://frontiersin.org/research-topics/44236) in Frontier in neuroscience & Frontiers in psychology. All papers related to this topic are warmly welcome! 👀Abstract Submission Deadline 19 September 2022
 - July 2, 2022 🚨New preprint: [Pain modulates early sensory brain responses to task-irrelevant emotional faces](https://psyarxiv.com/2wdjx/)
 - Jun 1, 2022 Poster presentation on “Vision Sciences Society Annual meeting 2022”, Vision Science Society, Florida, United States (virtual) 
