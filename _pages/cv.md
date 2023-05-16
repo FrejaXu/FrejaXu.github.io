@@ -34,7 +34,7 @@ Current research projects
 ======
 - 2021-2026: Project Manager and key member in the [Emotion AI](https://emotion-ai.rahtiapp.fi/) project led by Prof. Guoying Zhao. The project is funded by Academy of Finland. My main duties are project coordinating, study design, data collection and analyses, paper writing, student supervising and guiding.
 - 2023-2025: Project Manager and key member in the FARIA (The Finnish-American Research & Innovation Accelerator) project: AI-assisted sundown syndrome detection in the Arctic region project led by Prof. Guoying Zhao. The project is funded by Ministry of Education and Culture of Finland. My main duties are project coordinating, proposal writing, study design, data collection and analyses, paper writing, student supervising and guiding. 
-- 2020-2023, Sub-investigator and core member in the Neural basis of the two-phase resource allocation model of visual working memory and its application project led by Docent Chaoxiong Ye. The project is funded by Academy of Finland. My main duties are study design, data collection and analyses, paper writing and reporting.
+# - 2020-2023, Sub-investigator and core member in the Neural basis of the two-phase resource allocation model of visual working memory and its application project led by Docent Chaoxiong Ye. The project is funded by Academy of Finland. My main duties are study design, data collection and analyses, paper writing and reporting.
 
 Teaching
 ======
