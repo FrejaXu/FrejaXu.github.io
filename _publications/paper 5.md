@@ -13,8 +13,10 @@ In this paper, we used magnetoencephalography (MEG) to record automatic brain re
 This paper has received a total of 15,111 views and downloads as of 2023, surpassing the view count of 96% of all Frontiers articles.
 
 Social buzz: 
-[Depression symptoms bias the perception of facial expressions](https://medicalxpress.com/news/2018-05-depression-symptoms-bias-perception-facial.html?src_id=alt)
-[Negative bias in people with depression is temporary](https://www.medicalnewstoday.com/articles/327173)
+1.[Depression symptoms bias the perception of facial expressions](https://medicalxpress.com/news/2018-05-depression-symptoms-bias-perception-facial.html?src_id=alt)
+
+2.[Negative bias in people with depression is temporary](https://www.medicalnewstoday.com/articles/327173)
+
 
 [Download paper here](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00186/full)
 
