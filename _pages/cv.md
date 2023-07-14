@@ -47,7 +47,7 @@ Teaching
 Academic service
 ======
 - Guest associate editor: Frontiers in Neuroscience, Frontiers in Human Neuroscience
-- Ad hoc reviewer for Journals:  Frontiers in Psychology, BMC Psychology, Developmental Psychobiology
+- Ad hoc reviewer for Journals and conferences:  Frontiers in Psychology, BMC Psychology, Developmental Psychobiology, IJCAI
 - Member in Vision Sciences Society, Society for Neuroscience, Finnish Artificial Intelligence Society
 
 Conferences & Communications
