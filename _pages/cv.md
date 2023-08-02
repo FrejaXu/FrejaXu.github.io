@@ -66,8 +66,8 @@ Research skills
 - Experienced in Behavioral, EEG, and MEG measurement
 
 ======
-1.  **Xu Q.**, Liu, Q., & Ye, C. (2023) [Editorial: Cognitive mechanisms of visual attention, working memory, emotion, and their interactions](https://www.frontiersin.org/articles/10.3389/fnins.2023.1259002/full). Front. Neurosci. 17:1259002.
-2.	**Xu, Q.**, Ye, C., Li, X., Zhao, G., & Astikainen, P. (2023). [Pain modulates early sensory brain responses to task-irrelevant emotional faces.](https://onlinelibrary.wiley.com/doi/full/10.1002/ejp.2097). European Journal of Pain, 27(6), 666-681.
+1.  **Xu Q.**, Liu, Q., & Ye, C. (2023) [Editorial: Cognitive mechanisms of visual attention, working memory, emotion, and their interactions](https://www.frontiersin.org/articles/10.3389/fnins.2023.1259002/full). Frontiers in Neuroscience. 17:1259002.
+2.	**Xu, Q.**, Ye, C., Li, X., Zhao, G., & Astikainen, P. (2023). [Pain modulates early sensory brain responses to task-irrelevant emotional faces.](https://onlinelibrary.wiley.com/doi/full/10.1002/ejp.2097). European Journal of Pain. 27(6), 666-681.
 3.	**Xu, Q.** (2021). [Change detection in the surrounding world: evidence from visual and somatosensory brain responses.](http://urn.fi/URN:ISBN:978-951-39-8791-6) (JYU Dissertations, 415, Doctoral dissertation, University of Jyväskylä).
 4.	**Xu, Q.**, Ye, C., Hämäläinen, J.A., Ruohonen, E.M., Li, X., & Astikainen, P. (2021). [Magnetoencephalography responses to unpredictable and predictable rare somatosensory stimuli in healthy adult humans. Frontiers in Human Neuroscience.](https://www.frontiersin.org/articles/10.3389/fnhum.2021.641273/full) 15, 641273. 
 5.	**Xu, Q.**, Ye, C., Gu, S., Hu, Z., Yi, L., Li, X., Huang, L., & Liu, Q. (2021). [Negative and positive bias for emotional faces: Evidence from the attention and working memory paradigms.](https://www.hindawi.com/journals/np/2021/8851066/) Neural Plasticity, 2021, 8851066. 
