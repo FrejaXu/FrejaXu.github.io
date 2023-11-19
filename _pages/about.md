@@ -19,8 +19,13 @@ News
 ======
 Stay tuned!😀
 
+- Nov 2023 🛫 Thrilled to begin my journey as a visiting research scholar at Stanford University. It feels like a dream come true!
+- Nov 2023 🪧 Presented our latest database at Neuroscience 2023 and was delighted to connect with so many brilliant minds.
+- Sept 2023 Excited to announce that I have been awarded the New Brain Travel Fellowship to attend Neuroscience 2023 in Washington D.C.!
+- Sept 2023 I am happy to continue my lectures in Affective Computing 2023, and ready to share knowledge with the new intake of students 👩‍🏫
 - July 2023 🎉 Exciting News! 🎉 Our groundbreaking research topic on ["Cognitive Mechanisms of Visual Attention, Working Memory, Emotion, and their Interactions"](https://www.frontiersin.org/research-topics/44236/cognitive-mechanisms-of-visual-attention-working-memory-emotion-and-their-interactions#articles) has officially concluded! We received 45 submissions from brilliant minds worldwide, and 14 excellent papers have been published. To get an insightful summary of all the accepted papers, head over to our [editorial](https://www.frontiersin.org/articles/10.3389/fnins.2023.1259002/full). For an in-depth dive into the authors' remarkable research, you can access each paper through their respective [🔗](https://www.frontiersin.org/research-topics/44236/cognitive-mechanisms-of-visual-attention-working-memory-emotion-and-their-interactions#articles). Gratitude to all our incredible authors! 👏 
 - Mar 2023 Our newest paper [“Pain modulates early sensory brain responses to task‐irrelevant emotional faces”](https://doi.org/10.1002/ejp.2097) is now published online in the journal of European Journal of Pain! 🎬 For a video abstract, please check this link 👉 [link](https://www.veed.io/view/2c5741b6-1062-476e-8d20-6499906a8944?panel=share)
+- Feb 2023 Thrilled to share that I am involved in a new project as a sub-investigator, focusing on the early detection and intervention strategies for sundown syndrome in older adults
 - Sep 2022 Serving as the instructor for graduate students in Affective computing 2022 (5 ECTS) at University of Oulu
 - Aug 15, 2022 Joining the Editorial Board of Emotion Science @Frontiers in Psychology
 - July 27, 2022 📢Serving as co-editor for the research topic [“Cognitive mechanisms of visual attention, working memory, emotion, and their interactions”](https://frontiersin.org/research-topics/44236) in Frontier in neuroscience & Frontiers in psychology. All papers related to this topic are warmly welcome! 👀Abstract Submission Deadline 19 September 2022
