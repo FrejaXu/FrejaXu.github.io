@@ -21,6 +21,7 @@ Chinese (native), English (fluent), Finnish (basic)
 
 Work experience
 ======
+* 2023-present, Visiting Scholar, Department of Psychiatry and Behavioral Sciences, Stanford University, United States.
 * 2021-present, Postdoctoral Researcher, Center for Machine Vision and Signal Analysis, University of Oulu, Finland.
 * 2018-2021, Doctoral Candidate, Department of Psychology, University of Jyväskylä, Finland
 * 2018-2019, Research Assistant, Department of Language and Communication Studies, University of Jyväskylä, Finland
@@ -52,6 +53,7 @@ Academic service
 
 Conferences & Communications
 ======
+- 2023, Poster presentation on "Neuroscience 2023", Society for Neuroscience, Washington. DC, United States
 - 2022, Poster presentation on “Vision Sciences Society Annual meeting 2022”, Vision Science Society, Florida, United States (virtual) 
 - 2021, Oral presentation on "MEG Nord 2021" Institute of Cogntitive Neuroscience, Higher School of Economics, Moscow, Russia (virtual) 
 - 2021, Poster presentation on "8th Mind Brain Body Symposium 2021", Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, German (virtual) 
