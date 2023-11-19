@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* 2018-2021, Doctor of Philosophy (Psychology), University of Jyväskylä, Finland. 
-* 2015-2018, Master of Education (Basic Psychology), Liaoning Normal University, China.
-* 2011-2015, Bachelor of Science (Applied Psychology), Dalian Medical University, China. 
+* 2018-2021, Doctor of Philosophy (Psychology), University of Jyväskylä, Finland. Supervisor: Assoc. Prof. Piia Astikainen, Prof. Jarmo Hämäläinen.
+* 2015-2018, Master of Education (Basic Psychology), Liaoning Normal University, China. Supervisor: Prof. Wenbo Luo.
+* 2011-2015, Bachelor of Science (Applied Psychology), Dalian Medical University, China. Supervisor: Dr. Guoqing Xu.
+
 
 Language skills
 ======
