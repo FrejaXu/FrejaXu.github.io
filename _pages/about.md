@@ -21,7 +21,7 @@ News
 ======
 Stay tuned!😀
 
-- Nov 2023 🛫 Thrilled to begin my journey as a visiting research scholar at Stanford University. It feels like a dream come true!
+- Nov 2023 🛫 Thrilled to begin my journey as a visiting research scholar at Stanford University
 - Nov 2023 🪧 Presented our latest database at Neuroscience 2023 and was delighted to connect with so many brilliant minds.
 - Sept 2023 Excited to announce that I have been awarded the New Brain Travel Fellowship to attend Neuroscience 2023 in Washington D.C.!
 - Sept 2023 I am happy to continue my lectures in Affective Computing 2023, and ready to share knowledge with the new intake of students 👩‍🏫
