@@ -22,7 +22,7 @@ Chinese (native), English (fluent), Finnish (basic)
 
 Work experience
 ======
-* 2023-present, Visiting Scholar, Department of Psychiatry and Behavioral Sciences, Stanford University, United States.
+* 2023-present, Visiting Postdoctoral Scholar, Department of Psychiatry and Behavioral Sciences, Stanford University, United States.
 * 2021-present, Postdoctoral Researcher, Center for Machine Vision and Signal Analysis, University of Oulu, Finland.
 * 2018-2021, Doctoral Candidate, Department of Psychology, University of Jyväskylä, Finland
 * 2018-2019, Research Assistant, Department of Language and Communication Studies, University of Jyväskylä, Finland
