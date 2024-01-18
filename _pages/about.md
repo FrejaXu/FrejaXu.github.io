@@ -13,7 +13,7 @@ In sum, my research is deeply rooted in the study of neural signatures and their
 
 <!--In my previous research, I primarily focused on investigating brain responses (MEG/EEG) to somatosensory and emotional stimuli in both depressed and non-depressed individuals. My Ph.D. dissertation, titled ["Change detection in the surrounding world: evidence from the visual and somatosensory brain responses"]( http://urn.fi/URN:ISBN:978-951-39-8791-6) was supervised by Assoc. prof. [Piia Astikainen](https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/staff/astikainen-piia) and Prof. [Jarmo Hämäläinen](https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/staff/hamalainen-jarmo). One of my ongoing projects revolves around understanding how physical pain, compared to emotional pain such as depression, alters emotional processing. This knowledge could be instrumental in the development of diagnostic tools and predicting treatment responses in the future.-->
 
-As a researcher, I consider myself self-motivated and enthusiastic, always seeking new knowledge and embracing challenges. My personal motto is "To see the world" and "Stay curious." Beyond academia, I have a passion for traveling and scuba diving. So far, I have explored 51 countries and spent a total of 3,003 minutes underwater (with more adventures to come...).
+As a researcher, I consider myself self-motivated and enthusiastic, always seeking new knowledge and embracing challenges. My personal motto is "To see the world" and "Stay curious." Beyond academia, I have a passion for traveling and scuba diving. So far, I have explored 55 countries and spent a total of 3,003 minutes underwater (with more adventures to come...).
 
 📧Contact me: qianru.xu@oulu.fi OR psy.qianru.xu@outlook.com
 
@@ -21,6 +21,7 @@ News
 ======
 Stay tuned!😀
 
+- Dec 2023 Great honor to be awarded the [Postdoc Pool grant](https://skr.fi/ajankohtaista/saatioiden-post-doc-poolin-syyshaun-tulokset-32-tohtoria-sai-rahoituksen) supported by the Finnish Cultural Foundation 🧡
 - Nov 2023 🛫 Thrilled to begin my journey as a visiting research scholar at Stanford University
 - Nov 2023 🪧 Presented our latest database at Neuroscience 2023 and was delighted to connect with so many brilliant minds.
 - Sept 2023 Excited to announce that I have been awarded the New Brain Travel Fellowship to attend Neuroscience 2023 in Washington D.C.!
