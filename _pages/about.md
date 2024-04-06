@@ -22,7 +22,7 @@ News
 Stay tuned!😀
 
 - Mar 2024 Our abstract titled “Unmasking induced and posed emotions through EEG analysis” has been accepted to present at Social & Affective Neuroscience Society (SANS) 2024 in Toronto, Canada
-- Feb 2024 our new review paper "Exploring Contactless Techniques in Multimodal Emotion Recognition: Insights into Diverse Applications, Challenges, Solutions, and Prospects" has been accepted for publication in Multimedia Systems
+- Feb 2024 our new review paper ["Explorng Contactless Techniques in Multimodal Emotion Recognition: Insights into Diverse Applications, Challenges, Solutions, and Prospects"](https://link.springer.com/article/10.1007/s00530-024-01302-2?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240406&utm_content=10.1007/s00530-024-01302-2) has been accepted for publication in Multimedia Systems 
 - Dec 2023 Great honor to be awarded the [Postdoc Pool grant](https://skr.fi/ajankohtaista/saatioiden-post-doc-poolin-syyshaun-tulokset-32-tohtoria-sai-rahoituksen) supported by the Finnish Cultural Foundation 🧡
 - Nov 2023 🛫 Thrilled to begin my journey as a visiting research scholar at Stanford University
 - Nov 2023 🪧 Presented our latest database at Neuroscience 2023 and was delighted to connect with so many brilliant minds.
