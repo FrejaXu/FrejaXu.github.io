@@ -21,6 +21,8 @@ News
 ======
 Stay tuned!😀
 
+- June 2024, Excited to share my new co-first author paper ["The differential impact of face distractors on visual working memory across encoding and delay stages"](https://link.springer.com/article/10.3758/s13414-024-02895-6) just published on Attention, Perception, & Psychophysics! 📄 Through a series of behavioral experiments, we found that visual working memory (VWM) for faces is significantly disrupted by distractions during the delay stage, but not during encoding. This extends the processing mechanisms previously established for resisting distractions in VWM using simple stimuli to more complex real-world stimuli.
+- May 2024, 👩‍🏫 Served as the Teaching Assistant for Professor Feng Vankee Lin’s doctoral course, “Personalization Intervention and Aging-Related Mental Health” (3 ECTS) and gained lots of valuable inspiration and insights!
 - Mar 2024 Our abstract titled “Unmasking induced and posed emotions through EEG analysis” has been accepted to present at Social & Affective Neuroscience Society (SANS) 2024 in Toronto, Canada
 - Feb 2024 our new review paper ["Explorng Contactless Techniques in Multimodal Emotion Recognition: Insights into Diverse Applications, Challenges, Solutions, and Prospects"](https://link.springer.com/article/10.1007/s00530-024-01302-2?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240406&utm_content=10.1007/s00530-024-01302-2) has been accepted for publication in Multimedia Systems 
 - Dec 2023 Great honor to be awarded the [Postdoc Pool grant](https://skr.fi/ajankohtaista/saatioiden-post-doc-poolin-syyshaun-tulokset-32-tohtoria-sai-rahoituksen) supported by the Finnish Cultural Foundation 🧡
