@@ -21,6 +21,8 @@ News
 ======
 Stay tuned!😀
 
+- June 2024, Had a very meaningful birthday starting with a talk on "From Emotion AI to Cognitive AI" in 
+["International Conference Series on Hybrid Human-Artificial Intelligence"](https://hhai-conference.org/) and joining a fascinating panel discussion. Check out more about our tutorial on ["Human-AI mutual promotion for emotion and cognition understanding"](https://cv-ac.github.io/HAECU-HHAI2024/).
 - June 2024, Excited to share my new co-first author paper ["The differential impact of face distractors on visual working memory across encoding and delay stages"](https://link.springer.com/article/10.3758/s13414-024-02895-6) just published on Attention, Perception, & Psychophysics! 📄 Through a series of behavioral experiments, we found that visual working memory (VWM) for faces is significantly disrupted by distractions during the delay stage, but not during encoding. This extends the processing mechanisms previously established for resisting distractions in VWM using simple stimuli to more complex real-world stimuli.
 - May 2024, Gave a talk at the HI Lights seminar titled "Achieving Hybrid Intelligence from the Data and Algorithm Aspects" on the Tellus stage at the University of Oulu, Finland.
 - May 2024, 👩‍🏫 Served as the Teaching Assistant for Professor Feng Vankee Lin’s doctoral course, “Personalization Intervention and Aging-Related Mental Health” (3 ECTS) and gained lots of valuable inspiration and insights!
