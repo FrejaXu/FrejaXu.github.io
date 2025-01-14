@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**About**
+**About** <br>
 I am a psychologist with a deep interest in the intersection of emotions, face perception, and mental health. My research focuses on understanding how emotions influence behavior and neural activity, in both clinical populations (e.g., individuals with depression or dementia) and general populations. To explore these questions, I use interdisciplinary methods, including behavioral and physiological recordings combined with advanced computational tools. I am currently leading a postdoctoral research project at Stanford University, funded by the Finnish Cultural Foundation’s Postdoc Pool program, where I study emotional and behavioral disturbances in patients with sundown syndrome.
 
 Beyond my academic work, I am an enthusiastic world traveler and scuba diver. I have explored 74 Travelers’ Century Club (TCC) countries and territories and spent over 3,000 minutes underwater. These experiences continue to fuel my curiosity and passion for discovering new perspectives.
 
-**Background**
+**Background** <br>
 I began my academic journey with a Master’s degree in Psychology, earned in 2018 in China, before pursuing a PhD at the University of Jyväskylä in Finland, which I completed in 2021. My doctoral research focused on neural and behavioral responses to emotional and somatosensory stimuli, with applications in understanding depression and emotional pain.
 
 Afterward, I transitioned to the University of Oulu, where I joined the Center for Machine Vision and Signal Analysis (CMVS). There, I worked on the interdisciplinary "Emotion AI" project, led by Academy Prof. Guoying Zhao, combining computer vision and neuroscience to study emotional states. This experience deepened my understanding of multimodal data and its potential for detecting genuine versus posed emotions.
@@ -26,10 +26,10 @@ I am Qianru Xu (许茜如), a postdoctoral researcher at the Center for Machine 
 
 In sum, my research is deeply rooted in the study of neural signatures and their relationship to behavioral changes, particularly in the context of understanding emotions and associated affective disorders. The core aim of my work is to unravel the complex neural underpinnings of emotion using the Emotion AI engine. This could lead to the development of more effective diagnostic tools and therapeutic strategies for various emotional and behavioral disturbances.
 
-<!--In my previous research, I primarily focused on investigating brain responses (MEG/EEG) to somatosensory and emotional stimuli in both depressed and non-depressed individuals. My Ph.D. dissertation, titled ["Change detection in the surrounding world: evidence from the visual and somatosensory brain responses"]( http://urn.fi/URN:ISBN:978-951-39-8791-6) was supervised by Assoc. prof. [Piia Astikainen](https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/staff/astikainen-piia) and Prof. [Jarmo Hämäläinen](https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/staff/hamalainen-jarmo). One of my ongoing projects revolves around understanding how physical pain, compared to emotional pain such as depression, alters emotional processing. This knowledge could be instrumental in the development of diagnostic tools and predicting treatment responses in the future.-->
+In my previous research, I primarily focused on investigating brain responses (MEG/EEG) to somatosensory and emotional stimuli in both depressed and non-depressed individuals. My Ph.D. dissertation, titled ["Change detection in the surrounding world: evidence from the visual and somatosensory brain responses"]( http://urn.fi/URN:ISBN:978-951-39-8791-6) was supervised by Assoc. prof. [Piia Astikainen](https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/staff/astikainen-piia) and Prof. [Jarmo Hämäläinen](https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/staff/hamalainen-jarmo). One of my ongoing projects revolves around understanding how physical pain, compared to emotional pain such as depression, alters emotional processing. This knowledge could be instrumental in the development of diagnostic tools and predicting treatment responses in the future.
 
-As a researcher, I consider myself self-motivated and enthusiastic, always seeking new knowledge and embracing challenges. My personal motto is "To see the world" and "Stay curious." Beyond academia, I have a passion for traveling and scuba diving. So far, I have explored 55 countries and spent a total of 3,285 minutes underwater (with more adventures to come...).
--->
+As a researcher, I consider myself self-motivated and enthusiastic, always seeking new knowledge and embracing challenges. My personal motto is "To see the world" and "Stay curious." Beyond academia, I have a passion for traveling and scuba diving. So far, I have explored 55 countries and spent a total of 3,285 minutes underwater (with more adventures to come...).-->
+
 📧Contact me: psy.qianru.xu@outlook.com
 
 News
