@@ -15,7 +15,7 @@ Beyond my academic work, I am an enthusiastic world traveler and scuba diver. I 
 
 I began my academic journey with a Master’s degree in Psychology, earned in 2018 in China, before pursuing a PhD at the University of Jyväskylä in Finland, which I completed in 2021. My doctoral research focused on neural and behavioral responses to emotional and somatosensory stimuli, with applications in understanding depression and emotional pain.
 
-Afterward, I transitioned to the University of Oulu, where I joined the Center for Machine Vision and Signal Analysis (CMVS). There, I worked on the interdisciplinary ["Emotion AI"](https://emotion-ai.rahtiapp.fi/index.html)project, led by Academy Prof. [Guoying Zhao](https://gyzhao-nm.github.io/Guoying/), combining computer vision and neuroscience to study emotional states. This experience deepened my understanding of multimodal data and its potential for detecting genuine versus posed emotions.
+Afterward, I transitioned to the University of Oulu, where I joined the Center for Machine Vision and Signal Analysis (CMVS). There, I worked on the interdisciplinary ["Emotion AI"](https://emotion-ai.rahtiapp.fi/index.html) project, led by Academy Prof. [Guoying Zhao](https://gyzhao-nm.github.io/Guoying/), combining computer vision and neuroscience to study emotional states. This experience deepened my understanding of multimodal data and its potential for detecting genuine versus posed emotions.
 
 Through my research and collaborations, I aim to bridge psychology, neuroscience, and technology to address complex challenges and create meaningful impacts in mental health and emotional understanding.
 
