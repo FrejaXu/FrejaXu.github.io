@@ -8,7 +8,7 @@ redirect_from:
 ---
 ---
 ---
-*Version: January 2024*
+*Version: Jan 2024*
 ---
 Education
 ======
