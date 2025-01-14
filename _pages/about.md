@@ -7,12 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**About** <br>
 I am a psychologist with a deep interest in the intersection of emotions, face perception, and mental health. My research focuses on understanding how emotions influence behavior and neural activity, in both clinical populations (e.g., individuals with depression or dementia) and general populations. To explore these questions, I use interdisciplinary methods, including behavioral and physiological recordings combined with advanced computational tools. I am currently leading a postdoctoral research project at Stanford University, funded by the Finnish Cultural Foundation’s Postdoc Pool program, where I study emotional and behavioral disturbances in patients with sundown syndrome.
 
 Beyond my academic work, I am an enthusiastic world traveler and scuba diver. I have explored 74 Travelers’ Century Club (TCC) countries and territories and spent over 3,000 minutes underwater. These experiences continue to fuel my curiosity and passion for discovering new perspectives.
 
-**Background** <br>
+#**Background** <br>
 I began my academic journey with a Master’s degree in Psychology, earned in 2018 in China, before pursuing a PhD at the University of Jyväskylä in Finland, which I completed in 2021. My doctoral research focused on neural and behavioral responses to emotional and somatosensory stimuli, with applications in understanding depression and emotional pain.
 
 Afterward, I transitioned to the University of Oulu, where I joined the Center for Machine Vision and Signal Analysis (CMVS). There, I worked on the interdisciplinary "Emotion AI" project, led by Academy Prof. Guoying Zhao, combining computer vision and neuroscience to study emotional states. This experience deepened my understanding of multimodal data and its potential for detecting genuine versus posed emotions.
