@@ -39,8 +39,9 @@ News
 - Sep 2024, Excited to start my own project at [Coglab](https://www.cogtlab.com/) led by Prof. Feng Vankee Lin at Stanford University, supported by Säätiöiden Post Doc -pooli from the Finnish Cultural Foundation
   
 **Stay tuned!😀**
+- Jan 2025, Attended the Experimental Psychology Society[(EPS) meeting](https://eps.ac.uk/) in London and listened to Daniel Yon’s lecture on Understanding Uncertainty in the Human Mind. He shared fascinating insights on how our own and others' minds form beliefs about uncertainty. Truly inspiring!
+- - Nov 2024, New (and my first ever senior author) paper out in Behavioral Sciences! 🎉 This study explores how traditional values shape the moral development and well-being of Chinese adolescents. More on 👉[link](https://www.mdpi.com/2076-328X/14/11/1079)
 - Nov 2024, Attended the Psychonomic Society Annual Meeting in NYC and had the honor of joining CowanFest to celebrate Nelson Cowan’s remarkable career and retirement. It was a exciting moment meeting him in person after knowing his work through textbooks, truly inspiring!💡
-- Nov 2024, New (and my first ever senior author) paper out in Behavioral Sciences! 🎉 This study explores how traditional values shape the moral development and well-being of Chinese adolescents. More on 👉[link](https://www.mdpi.com/2076-328X/14/11/1079)
 - Aug 2024, Thrilled to reach 350+ citations! 🎉 My first paper’s attention score of 18 was a great start, and I’m excited to keep working on more meaningful and impactful research. Grateful for all the support along the way! 🌟
 - June 2024, Had a very meaningful birthday starting with a talk on "From Emotion AI to Cognitive AI" in 
 ["International Conference Series on Hybrid Human-Artificial Intelligence"](https://hhai-conference.org/) and joining a fascinating panel discussion. Check out more about our tutorial on ["Human-AI mutual promotion for emotion and cognition understanding"](https://cv-ac.github.io/HAECU-HHAI2024/).
