@@ -10,6 +10,9 @@ redirect_from:
 ---
 *Version: Jan 2024*
 ---
+---
+---
+
 Education
 ======
 * 2018-2021, Doctor of Philosophy (Psychology), University of Jyväskylä, Finland. Supervisor: Assoc. Prof. Piia Astikainen, Prof. Jarmo Hämäläinen.
