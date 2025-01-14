@@ -7,6 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**About**
+I am a psychologist with a deep interest in the intersection of emotions, face perception, and mental health. My research focuses on understanding how emotions influence behavior and neural activity, in both clinical populations (e.g., individuals with depression or dementia) and general populations. To explore these questions, I use interdisciplinary methods, including behavioral and physiological recordings combined with advanced computational tools. I am currently leading a postdoctoral research project at Stanford University, funded by the Finnish Cultural Foundation’s Postdoc Pool program, where I study emotional and behavioral disturbances in patients with sundown syndrome.
+
+Beyond my academic work, I am an enthusiastic world traveler and scuba diver. I have explored 74 Travelers’ Century Club (TCC) countries and territories and spent over 3,000 minutes underwater. These experiences continue to fuel my curiosity and passion for discovering new perspectives.
+
+**Background**
+I began my academic journey with a Master’s degree in Psychology, earned in 2018 in China, before pursuing a PhD at the University of Jyväskylä in Finland, which I completed in 2021. My doctoral research focused on neural and behavioral responses to emotional and somatosensory stimuli, with applications in understanding depression and emotional pain.
+
+Afterward, I transitioned to the University of Oulu, where I joined the Center for Machine Vision and Signal Analysis (CMVS). There, I worked on the interdisciplinary "Emotion AI" project, led by Academy Prof. Guoying Zhao, combining computer vision and neuroscience to study emotional states. This experience deepened my understanding of multimodal data and its potential for detecting genuine versus posed emotions.
+
+Through my research and collaborations, I aim to bridge psychology, neuroscience, and technology to address complex challenges and create meaningful impacts in mental health and emotional understanding.
+
+
+
+<!--
 I am Qianru Xu (许茜如), a postdoctoral researcher at the Center for Machine Vision and Signal Analysis (CMVS), University of Oulu, Finland. Currently, I'm working on an exciting project called ["Emotion AI"](https://emotion-ai.rahtiapp.fi/index.html) which is led by Prof. [Guoying Zhao](https://gyzhao-nm.github.io/Guoying/). Our interdisciplinary team is integrating neurosciences and computer vision to study various emotional cues. My main research focus is to leverage multimodal data to deepen our understanding of the neural mechanisms and behavioral manifestations that differentiate genuine from posed emotional states. Ultimately, we hope to help individuals improve their emotional well-being and foster more authentic human connections. In my previous research, I primarily focused on investigating brain responses (MEG/EEG) to somatosensory and emotional stimuli involving emotional pain (e.g., depression) and physical pain. 
 
 In sum, my research is deeply rooted in the study of neural signatures and their relationship to behavioral changes, particularly in the context of understanding emotions and associated affective disorders. The core aim of my work is to unravel the complex neural underpinnings of emotion using the Emotion AI engine. This could lead to the development of more effective diagnostic tools and therapeutic strategies for various emotional and behavioral disturbances.
@@ -14,13 +29,19 @@ In sum, my research is deeply rooted in the study of neural signatures and their
 <!--In my previous research, I primarily focused on investigating brain responses (MEG/EEG) to somatosensory and emotional stimuli in both depressed and non-depressed individuals. My Ph.D. dissertation, titled ["Change detection in the surrounding world: evidence from the visual and somatosensory brain responses"]( http://urn.fi/URN:ISBN:978-951-39-8791-6) was supervised by Assoc. prof. [Piia Astikainen](https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/staff/astikainen-piia) and Prof. [Jarmo Hämäläinen](https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/staff/hamalainen-jarmo). One of my ongoing projects revolves around understanding how physical pain, compared to emotional pain such as depression, alters emotional processing. This knowledge could be instrumental in the development of diagnostic tools and predicting treatment responses in the future.-->
 
 As a researcher, I consider myself self-motivated and enthusiastic, always seeking new knowledge and embracing challenges. My personal motto is "To see the world" and "Stay curious." Beyond academia, I have a passion for traveling and scuba diving. So far, I have explored 55 countries and spent a total of 3,285 minutes underwater (with more adventures to come...).
-
-📧Contact me: qianru.xu@oulu.fi OR xqr_psy@163.com
+-->
+📧Contact me: psy.qianru.xu@outlook.com
 
 News
 ======
-Stay tuned!😀
+# 📌 Featured News
 
+- Sep 2024, Excited to start my own project at [Coglab](https://www.cogtlab.com/) led by Prof. Feng Vankee Lin at Stanford University, supported by Säätiöiden Post Doc -pooli from the Finnish Cultural Foundation
+  
+**Stay tuned!😀**
+- Nov 2024, Attended the Psychonomic Society Annual Meeting in NYC and had the honor of joining CowanFest to celebrate Nelson Cowan’s remarkable career and retirement. It was a exciting moment meeting him in person after knowing his work through textbooks, truly inspiring!💡
+- Nov 2024, New (and my first ever senior author) paper out in Behavioral Sciences! 🎉 This study explores how traditional values shape the moral development and well-being of Chinese adolescents. More on 👉[link](https://www.mdpi.com/2076-328X/14/11/1079)
+- Aug 2024, Thrilled to reach 350+ citations! 🎉 My first paper’s attention score of 18 was a great start, and I’m excited to keep working on more meaningful and impactful research. Grateful for all the support along the way! 🌟
 - June 2024, Had a very meaningful birthday starting with a talk on "From Emotion AI to Cognitive AI" in 
 ["International Conference Series on Hybrid Human-Artificial Intelligence"](https://hhai-conference.org/) and joining a fascinating panel discussion. Check out more about our tutorial on ["Human-AI mutual promotion for emotion and cognition understanding"](https://cv-ac.github.io/HAECU-HHAI2024/).
 - June 2024, Excited to share my new co-first author paper ["The differential impact of face distractors on visual working memory across encoding and delay stages"](https://link.springer.com/article/10.3758/s13414-024-02895-6) just published on Attention, Perception, & Psychophysics! 📄 Through a series of behavioral experiments, we found that visual working memory (VWM) for faces is significantly disrupted by distractions during the delay stage, but not during encoding. This extends the processing mechanisms previously established for resisting distractions in VWM using simple stimuli to more complex real-world stimuli.
