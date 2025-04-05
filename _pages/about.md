@@ -36,7 +36,7 @@ News
 ======
 # 📌 Featured News
 
-- Sep 2024, Excited to start my own project at [Coglab](https://www.cogtlab.com/) led by Prof. Feng Vankee Lin at Stanford University, supported by Säätiöiden Post Doc -pooli from the Finnish Cultural Foundation
+- Sep 2024, Excited to start my own project at [Coglab](https://cogtlab.stanford.edu/) led by Prof. Feng Vankee Lin at Stanford University, supported by Säätiöiden Post Doc -pooli from the Finnish Cultural Foundation
   
 **Stay tuned!😀**
 - Jan 2025, Attended the Experimental Psychology Society [(EPS) meeting](https://eps.ac.uk/) in London and listened to Daniel Yon’s lecture on Understanding Uncertainty in the Human Mind. He shared fascinating insights on how our own and others' minds form beliefs about uncertainty. Truly inspiring!
