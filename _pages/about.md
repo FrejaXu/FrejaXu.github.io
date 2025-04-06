@@ -39,6 +39,8 @@ News
 - Sep 2024, Excited to start my own project at [Coglab](https://cogtlab.stanford.edu/) led by Prof. Feng Vankee Lin at Stanford University, supported by Säätiöiden Post Doc -pooli from the Finnish Cultural Foundation
   
 **Stay tuned!😀**
+- April 2025, 🚨 New Special Issue: Emerging Trends in Facial Expression Recognition: Applications and Challenges is now open for submissions in @electronics 👉 [link](https://www.mdpi.com/si/236001)
+- March 2025, 📢 Excited to announce our Cross-Cultural Facial Expression Recognition (CCFER) Workshop at #ICME2025! 🌐 More info 👉 [link](https://sites.google.com/view/icme2025workshopculture/main)
 - Jan 2025, Attended the Experimental Psychology Society [(EPS) meeting](https://eps.ac.uk/) in London and listened to Daniel Yon’s lecture on Understanding Uncertainty in the Human Mind. He shared fascinating insights on how our own and others' minds form beliefs about uncertainty. Truly inspiring!
 - Nov 2024, New (and my first ever senior author) paper out in Behavioral Sciences! 🎉 This study explores how traditional values shape the moral development and well-being of Chinese adolescents. More on 👉[link](https://www.mdpi.com/2076-328X/14/11/1079)
 - Nov 2024, Attended the Psychonomic Society Annual Meeting in NYC and had the honor of joining CowanFest to celebrate Nelson Cowan’s remarkable career and retirement. It was a exciting moment meeting him in person after knowing his work through textbooks, truly inspiring!💡
