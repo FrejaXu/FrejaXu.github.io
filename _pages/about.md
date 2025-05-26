@@ -39,6 +39,8 @@ News
 - Sep 2024, Excited to start my own project at [Coglab](https://cogtlab.stanford.edu/) led by Prof. Feng Vankee Lin at Stanford University, supported by Säätiöiden Post Doc -pooli from the Finnish Cultural Foundation
   
 **Stay tuned!😀**
+- April 2025 – 🎉 Our paper *SunVid: A Curated Online Video Database for Sundown Syndrome Research* was accepted to #SCIA2025!  
+  Looking forward to presenting it in Iceland this June 🇮🇸 👉 [https://scia2025.org/](https://scia2025.org/)
 - April 2025, 🚨 New Special Issue: Emerging Trends in Facial Expression Recognition: Applications and Challenges is now open for submissions in @electronics 👉 [link](https://www.mdpi.com/si/236001)
 - March 2025, 📢 Excited to announce our Cross-Cultural Facial Expression Recognition (CCFER) Workshop at #ICME2025! 🌐 More info 👉 [link](https://sites.google.com/view/icme2025workshopculture/main)
 - Jan 2025, Attended the Experimental Psychology Society [(EPS) meeting](https://eps.ac.uk/) in London and listened to Daniel Yon’s lecture on Understanding Uncertainty in the Human Mind. He shared fascinating insights on how our own and others' minds form beliefs about uncertainty. Truly inspiring!
