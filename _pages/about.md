@@ -39,7 +39,7 @@ News
 - Sep 2024, Excited to start my own project at [Coglab](https://cogtlab.stanford.edu/) led by Prof. Feng Vankee Lin at Stanford University, supported by Säätiöiden Post Doc -pooli from the Finnish Cultural Foundation
   
 **Stay tuned!😀**
-- July 2025- 📝 Our scoping review on Sundown Syndrome is now out in Archives of Clinical Neuropsychology, where we propose a new roadmap to improve its assessment and care. 👉 Read the full [paper](https://academic.oup.com/acn/advance-article/doi/10.1093/arclin/acaf062/8185421?login=false) 
+- July 2025- 📝 Our scoping review on Sundown Syndrome is now out in Archives of Clinical Neuropsychology, where we propose a new roadmap to improve the risk identification, diagnosis, continuous monitoring, and treatment. 👉 Read the full [paper](https://academic.oup.com/acn/advance-article/doi/10.1093/arclin/acaf062/8185421?login=false) 
 - June 2025 - Had a great time presenting our SunVid paper on AI-assisted Sundown Syndrome detection at SCIA 2025 in beautiful Iceland 🇮🇸
 🙏 Thanks to everyone who stopped by for the insightful discussions! 🔗 Read the [paper](https://link.springer.com/chapter/10.1007/978-3-031-95918-9_2)
 - April 2025 – 🎉 Our paper *SunVid: A Curated Online Video Database for Sundown Syndrome Research* was accepted to #SCIA2025!  
