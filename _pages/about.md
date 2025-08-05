@@ -36,7 +36,7 @@ News
 ======
 # 📌 Featured News
 
-- Sep 2024, Excited to start my own project at [Coglab](https://cogtlab.stanford.edu/) led by Prof. Feng Vankee Lin at Stanford University, supported by Säätiöiden Post Doc -pooli from the Finnish Cultural Foundation
+- Sep 2024, Excited to start my own project at [CogTlab](https://cogtlab.stanford.edu/) led by Prof. Feng Vankee Lin at Stanford University, supported by Säätiöiden Post Doc -pooli from the Finnish Cultural Foundation
   
 **Stay tuned!😀**
 - July 2025, 📝 Our scoping review on Sundown Syndrome is now out in Archives of Clinical Neuropsychology, where we propose a new roadmap to improve the risk identification, diagnosis, continuous monitoring, and treatment. 👉 Read the full [paper](https://academic.oup.com/acn/advance-article/doi/10.1093/arclin/acaf062/8185421?login=false) 
