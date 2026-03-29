@@ -40,7 +40,7 @@ News
   
 **Stay tuned!😀**
 - March 2026, 🎤 Had the pleasure of giving a talk at the [Learning and Plasticity Meeting 2026](https://lapmeeting.fi/) in the beautiful snowy Äkäslompolo, Lapland. I presented our recent work on how perceptual grouping shapes neural representations in visual working memory in a symposium on computational approaches to learning, organized by Prof. Susanne Jaeggi, and really enjoyed meeting many inspiring researchers.
-- February 2026, 🏅 Honored to receive the Seal of Excellence from the Marie Skłodowska-Curie Actions Postdoctoral Fellowship under the European Commission.
+- February 2026, 🏅 Honored to receive the [Seal of Excellence](https://marie-sklodowska-curie-actions.ec.europa.eu/funding/seal-of-excellence) from the Marie Skłodowska-Curie Actions Postdoctoral Fellowship under the European Commission.
 - January 2026, 🎉 Excited to share that our project Toward Hybrid Intelligence for Deep Cognitive–Affective Understanding in Learning has been funded by the Hybrid Intelligence New Research Initiatives Programme. Looking forward to advancing research at the intersection of cognition, emotion, and AI together with PI Yante Li and myself.
 - December 2025, 📝 Our paper A Conceptual Framework for Emotion-Aware Monitoring of Sundown Syndrome is now available online in the 4DMR 2025 workshop proceedings (IJCAI 2025). 👉 Read the full paper: [https://ceur-ws.org/Vol-4115/paper8.pdf](https://ceur-ws.org/Vol-4115/paper8.pdf)
 - November 2025, 📍 Presented our work at the [Psychonomic Society 66th Annual Meeting](https://www.psychonomic.org/page/2025annualmeeting)in Denver, United States. It was a great opportunity to share ideas and connect with researchers in experimental psychology.
