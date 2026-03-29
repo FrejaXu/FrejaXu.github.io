@@ -39,6 +39,14 @@ News
 - Sep 2024, Excited to start my own project at [CogTlab](https://cogtlab.stanford.edu/) led by Prof. Feng Vankee Lin at Stanford University, supported by Säätiöiden Post Doc -pooli from the Finnish Cultural Foundation
   
 **Stay tuned!😀**
+- March 2026, 🎤 Had the pleasure of giving a talk at the Learning and Plasticity Meeting 2026 in the beautiful snowy Äkäslompolo, Lapland.
+I presented our recent work on how perceptual grouping shapes neural representations in visual working memory in a symposium on computational approaches to learning, organized by Prof. Susanne Jaeggi, and really enjoyed meeting many inspiring researchers.
+- February 2026, 🏅 Honored to receive the Seal of Excellence from the Marie Skłodowska-Curie Actions Postdoctoral Fellowship under the European Commission.
+- January 2026, 🎉 Excited to share that our project Toward Hybrid Intelligence for Deep Cognitive–Affective Understanding in Learning has been funded by the Hybrid Intelligence New Research Initiatives Programme. Looking forward to advancing research at the intersection of cognition, emotion, and AI together with PI Yante Li and myself.
+- December 2025, 📝 Our paper A Conceptual Framework for Emotion-Aware Monitoring of Sundown Syndrome is now available online in the 4DMR 2025 workshop proceedings (IJCAI 2025). 👉 Read the full paper: [https://ceur-ws.org/Vol-4115/paper8.pdf](https://ceur-ws.org/Vol-4115/paper8.pdf)
+- November 2025, 📍 Presented our work at the Psychonomic Society 66th Annual Meeting in Denver, United States. It was a great opportunity to share ideas and connect with researchers in experimental psychology.
+- September 2025, 🌍 Honored to receive continued funding for my postdoctoral fellowship from the Finnish Cultural Foundation.
+- September 2025, 🇬🇧 Presented a poster at the European Society for Cognitive Psychology Conference (ESCOP 24) in Sheffield, United Kingdom. Really enjoyed the inspiring discussions and learning about the latest advances in cognitive science.
 - July 2025, 📝 Our scoping review on Sundown Syndrome is now out in Archives of Clinical Neuropsychology, where we propose a new roadmap to improve the risk identification, diagnosis, continuous monitoring, and treatment. 👉 Read the full [paper](https://academic.oup.com/acn/advance-article/doi/10.1093/arclin/acaf062/8185421?login=false) 
 - June 2025, Had a great time presenting our SunVid paper on AI-assisted Sundown Syndrome detection at SCIA 2025 in beautiful Iceland 🇮🇸
 🙏 Thanks to everyone who stopped by for the insightful discussions! 🔗 Read the [paper](https://link.springer.com/chapter/10.1007/978-3-031-95918-9_2)
