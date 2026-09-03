@@ -1,4 +1,4 @@
----
+<img width="468" height="26" alt="image" src="https://github.com/user-attachments/assets/02a87e32-23c3-4cf2-9dc9-41c1b1b0f34b" />---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -39,6 +39,7 @@ News
 - Sep 2024, Excited to start my own project at [CogTlab](https://cogtlab.stanford.edu/) led by Prof. Feng Vankee Lin at Stanford University, supported by Säätiöiden Post Doc -pooli from the Finnish Cultural Foundation
   
 **Stay tuned!😀**
+- September 2026, 🎤 Happy to give a talk at the Joint ESCoP-CoPM Meeting 2026 in beautiful Hangzhou, China, and share some of our recent work. 👉 Check out the code and related materials on [OSF](https://osf.io/tu7w3/).
 - May 2026, 🪧 Presenting our recent EEG decoding work at the Vision Sciences Society Annual Meeting in 🏖️ St. Pete Beach, Florida. 👉 [Check the poster](/assets/posters/VSS_26_XU_260511.pdf).
 - March 2026, 🎤 Had the pleasure of giving a talk at the [Learning and Plasticity Meeting 2026](https://lapmeeting.fi/) in the beautiful snowy Äkäslompolo, Lapland. I presented our recent work on how perceptual grouping shapes neural representations in visual working memory in a symposium on computational approaches to learning, organized by Prof. Susanne Jaeggi, and really enjoyed meeting many inspiring researchers.
 - February 2026, 🏅 Honored to receive the [Seal of Excellence](https://marie-sklodowska-curie-actions.ec.europa.eu/funding/seal-of-excellence) from the Marie Skłodowska-Curie Actions Postdoctoral Fellowship under the European Commission.
